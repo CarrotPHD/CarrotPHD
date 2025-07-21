@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🌟 Carrot诗姐--硕博从入门到就业全系列训练营
 
-<!--
-**CarrotPHD/CarrotPHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 关于我
+- 985博士在读学姐
+- 野蛮生长 
+- 通过训练营的形式整理和输出知识
 
-Here are some ideas to get you started:
+## 🎯 训练营系列
+- **X100训练营** - 硕博21天成长心法修炼
+- **X101训练营** - LC笔面试
+- **X102训练营** - CVDL技术手册
+- **X103训练营** - SCI21天快速成稿
+- **X104训练营** - SCI52天冲刺小论文
+- **X105训练营** - SCI101天冲刺顶刊顶会
+- **X106训练营** - 大厂竞品亮点项目
+- **X107训练营** - 工程师技能训练营
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 学习进度
+查看下方的贡献热力图追踪我的学习节奏！
+
+## 🔗 快速导航
+
+## 📅 更新节奏
+- 每日更新学习日志
+- 每周发布整理后的学习周报
+- 不定期发布训练营新内容
+- 内测中目前欢迎共创迭代
